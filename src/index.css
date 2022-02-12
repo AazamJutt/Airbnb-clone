@@ -20,6 +20,7 @@ code {
 }
 
 .bg-dark{
+  color: white !important;
   background-color: black !important;
 }
 
